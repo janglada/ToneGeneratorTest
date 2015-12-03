@@ -1,2 +1,2 @@
 # ToneGeneratorTest
-Project to test all ToneGenerators in android SDK
+Project to test all tones available in android.media.ToneGenerator android class 
